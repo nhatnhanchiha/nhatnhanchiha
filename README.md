@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there 👋
+##
 
 ## Tại sao tôi lại chọn C# làm ngôn ngữ lập trình chính cho công việc và học tập?
 ### 1. C# là ngôn ngữ tốt nhất trên thế giới và không chấp nhận bất kỳ phản bác nào.
