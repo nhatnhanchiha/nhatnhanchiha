@@ -5,4 +5,4 @@
 ### 2. Cú pháp của C# tương tự như cú pháp của Java, vì vậy tôi nghĩ việc chuyển sẽ dễ dàng hơn.
 ### 3. Tôi chỉ biết C#, bạn có hài lòng không?
 
-## Cuối cùng cho phép tôi có một yêu cầu vô liêm sỉ cuối cùng - 1★ (Star), cảm ơn về sự hỗ trợ.
+## Cuối cùng cho phép tôi có một yêu cầu vô liêm sỉ cuối cùng - 1 ★ (Star), cảm ơn về sự hỗ trợ.
