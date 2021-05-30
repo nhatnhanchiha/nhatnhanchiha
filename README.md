@@ -7,7 +7,5 @@
 ### 3. Tôi chỉ biết C#, bạn có hài lòng không?
 ##
 
-### Cuối cùng cho phép tôi có một yêu cầu vô liêm sỉ cuối cùng - 1 ★ (Star), cảm ơn về sự hỗ trợ.
-##
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nhatnhanchiha)](https://github.com/anuraghazra/github-readme-stats)
+## Cuối cùng cho phép tôi có một yêu cầu vô liêm sỉ cuối cùng - 1 ★ (Star), cảm ơn về sự hỗ trợ.
 
