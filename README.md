@@ -7,4 +7,6 @@
 ### 3. Tôi chỉ biết C#, bạn có hài lòng không?
 ##
 
-## Cuối cùng cho phép tôi có một yêu cầu vô liêm sỉ cuối cùng - 1 ★ (Star), cảm ơn về sự hỗ trợ.
+### Cuối cùng cho phép tôi có một yêu cầu vô liêm sỉ cuối cùng - 1 ★ (Star), cảm ơn về sự hỗ trợ.
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatnhanchiha)](https://github.com/anuraghazra/github-readme-stats)
